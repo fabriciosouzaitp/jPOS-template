@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: jPOS-template
+Implementation-Version: 2.1.6-SNAPSHOT
+Class-Path: lib/jpos-2.1.6-SNAPSHOT.jar lib/org.osgi.core-6.0.0.jar li
+ b/javassist-3.27.0-GA.jar lib/snakeyaml-1.26.jar lib/jdbm-1.0.jar lib
+ /je-18.3.12.jar lib/sshd-core-2.4.0.jar lib/eddsa-0.3.0.jar lib/jdom2
+ -2.0.6.jar lib/javatuples-1.2.jar lib/jline-3.19.0.jar lib/bsh-2.0b6.
+ jar lib/commons-cli-1.4.jar lib/bcpg-jdk15on-1.67.jar lib/bcprov-jdk1
+ 5on-1.67.jar lib/sshd-common-2.4.0.jar lib/slf4j-api-1.7.30.jar lib/H
+ drHistogram-2.1.12.jar
+Main-Class: org.jpos.q2.Q2
+
